@@ -27,7 +27,7 @@ I am a backend developer
 <table>
   <tr>
     <td><a href="link-to-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
-   <td><a href="link-to-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">https://www.instagram.com/ardhnn10/</a></td>
+   <td><a href="https://www.instagram.com/ardhnn10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></td>
     <td><a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></td>
   </tr>
 </table>
