@@ -23,22 +23,6 @@ I am a backend developer
   </tr>
 </table>
 
-## Projects
-### [Project Name](link-to-project)
-- **Description**: A brief description of the project and what it does.
-- **Technologies Used**: Laravel, React.js, MySQL
-- [Link to Repo](link-to-repo)
-
-### [Project Name](link-to-project)
-- **Description**: A brief description of the project and what it does.
-- **Technologies Used**: Laravel, Vue.js, PostgreSQL
-- [Link to Repo](link-to-repo)
-
-### [AI Project Name](link-to-project)
-- **Description**: A brief description of an AI/ML project and what it does.
-- **Technologies Used**: Python, TensorFlow, scikit-learn
-- [Link to Repo](link-to-repo)
-
 ## Get in Touch
 <table>
   <tr>
