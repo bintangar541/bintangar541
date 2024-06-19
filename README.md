@@ -1,4 +1,4 @@
-# Hi there, I'm Bintang Ardhian Pratama 👋
+# Hi , I'm Bintang Ardhian Pratama 👋
 
 ## About Me
 I am a backend developer
