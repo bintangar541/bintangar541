@@ -9,7 +9,7 @@
 
 * 🎓 Currently studying **Informatics at Universitas Gunadarma**
 * 🏫 Graduate of **SMK Wikrama Bogor – Software and Game Development (PPLG)**
-* 💻 Focused on **Frontend & Full Stack Web Development**
+* 💻 Focused on **Full Stack Web Development**
 * ⚛️ Experienced with **React, JavaScript, ASP.NET, C#, Laravel & PHP**
 * 🗄️ Experienced with **PostgreSQL, MySQL & SQL Server**
 * 🚀 Interested in building **web applications and real-world software systems**
